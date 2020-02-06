@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "400355DC-0323-4E96-BE6A-8277E6756C7B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1877339C-EE76-4D9C-95CF-83696627059C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WonderPushTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "1877339C-EE76-4D9C-95CF-83696627059C - 6b225b9dff388b9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.isSubscribed.getter : Swift.Bool"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "1877339C-EE76-4D9C-95CF-83696627059C - 8064c46b78cf5085"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.isSubscribed.setter : Swift.Bool"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "1877339C-EE76-4D9C-95CF-83696627059C - 37005d19871052b4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.isSubscribed.modify : Swift.Bool"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "1877339C-EE76-4D9C-95CF-83696627059C - 636daf0afcf91e85"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.isSubscribed.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "1877339C-EE76-4D9C-95CF-83696627059C - e1e2179e7d58fdfd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.$isSubscribed.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "1877339C-EE76-4D9C-95CF-83696627059C - a001c643d357d3a5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.init(isSubscribed: Swift.Bool, gender: Swift.Optional&lt;Swift.Int&gt;) -&gt; WonderPushTest.ContentView"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "1877339C-EE76-4D9C-95CF-83696627059C - fe1e8153185d06e2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.init() -&gt; WonderPushTest.ContentView"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AF490BD-EDED-4E38-8395-B1A52DFD5A48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WonderPushTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "3AF490BD-EDED-4E38-8395-B1A52DFD5A48 - 3aa28f09d85d18f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.gender.getter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "3AF490BD-EDED-4E38-8395-B1A52DFD5A48 - 9b3cdf2f78af245b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.gender.setter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "3AF490BD-EDED-4E38-8395-B1A52DFD5A48 - 1343af1fad68545a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.gender.modify : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "3AF490BD-EDED-4E38-8395-B1A52DFD5A48 - 1ab4175ad0fe4cd9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.gender.modify : Swift.Optional&lt;Swift.Int&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "3AF490BD-EDED-4E38-8395-B1A52DFD5A48 - 8057caa3c312ed33"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.$gender.getter : SwiftUI.Binding&lt;Swift.Optional&lt;Swift.Int&gt;&gt;"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "3AF490BD-EDED-4E38-8395-B1A52DFD5A48 - a001c643d357d3a5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.init(isSubscribed: Swift.Bool, gender: Swift.Optional&lt;Swift.Int&gt;) -&gt; WonderPushTest.ContentView"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "3AF490BD-EDED-4E38-8395-B1A52DFD5A48 - fe1e8153185d06e2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WonderPushTest.ContentView.init() -&gt; WonderPushTest.ContentView"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85C20F1B-5C30-4165-94FF-D2CDA3394E2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WonderPushTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09DCED62-96E3-4E0E-9C36-3A94149C3C4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WonderPushTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "09DCED62-96E3-4E0E-9C36-3A94149C3C4A - 77fa060ca0aeebee"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.Int, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.Form&lt;SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.Int, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt; in WonderPushTest.ContentView.body.getter : some"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "09DCED62-96E3-4E0E-9C36-3A94149C3C4A - a7f77f311c56ac41"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.Int, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.Form&lt;SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.Int, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt; in WonderPushTest.ContentView.body.getter : some"
+                  moduleName = "WonderPushTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/WonderPushTest/WonderPushTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B73F53C6-C50A-4589-AEB8-C4E8A5A2025B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WonderPushTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B087029D-5346-45A3-93CF-3181FDABC395"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WonderPushTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E6E1AF0-56EF-456B-B9C7-087AFB775C93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WonderPushTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
